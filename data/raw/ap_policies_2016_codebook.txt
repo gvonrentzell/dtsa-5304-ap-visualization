@@ -1,0 +1,32 @@
+AP Policies 2016 — Coding Key
+Source: Education Commission of the States, Advanced Placement 2016 All Data Points (May 2016).
+
+Binary coding:
+1 = ECS explicitly documented a qualifying state policy/program in 2016.
+0 = ECS did not document a qualifying state policy/program in 2016.
+
+performance_incentive:
+Explicit state money, funding, or award tied to successful AP exam performance (such as a score of 3+).
+General AP funding or programs merely intended to improve performance are not coded 1.
+
+participation_incentive:
+Explicit state money or funding tied to AP enrollment, course completion, or exam-taking regardless of exam score.
+General AP access/startup grants are not coded 1.
+
+teacher_training:
+ECS documents a state program, requirement, or funding for AP teacher training/professional development.
+
+exam_fee_support:
+ECS documents state subsidies/support for AP testing fees. Federal-only or local-only support is not sufficient.
+
+access_support:
+ECS documents state support intended to encourage or expand access to AP.
+
+accountability:
+ECS documents AP participation and/or success in state high-school accountability metrics or reporting.
+
+policy_notes:
+Short source-derived explanation for selected classifications. Blank does not mean that ECS reported no AP policy of any kind; it only means no additional note was needed for this six-variable analysis.
+
+Important limitation:
+These variables describe the ECS May 2016 policy snapshot. They should be treated as historical policy context when compared with 2025 College Board outcomes. The visualization can show associations/patterns, not causal effects.
